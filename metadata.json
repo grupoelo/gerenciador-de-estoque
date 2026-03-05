@@ -1,0 +1,5 @@
+{
+  "name": "Gerenciador de Estoque",
+  "description": "Uma aplicação web moderna para gerenciamento de estoque com abas para entrada, saída e saldo por região, utilizando armazenamento local para persistência de dados.",
+  "requestFramePermissions": []
+}
